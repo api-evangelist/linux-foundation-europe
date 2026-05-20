@@ -34,6 +34,8 @@ apis:
       - type: Documentation
         url: https://linuxfoundation.eu/projects
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/linux-foundation-europe
   - type: Documentation
     name: Linux Foundation Europe Documentation
     description: Official documentation for Linux Foundation Europe.
