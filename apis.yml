@@ -34,6 +34,8 @@ apis:
       - type: Documentation
         url: https://linuxfoundation.eu/projects
 common:
+  - type: DomainSecurity
+    url: security/linux-foundation-europe-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/showcase/linux-foundation-europe
   - type: Documentation
