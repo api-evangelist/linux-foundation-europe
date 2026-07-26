@@ -6,33 +6,32 @@ description: >-
   OpenWallet Foundation, Servo, NeoNephos, and other projects, providing a
   European framework for open source innovation and digital sovereignty.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/linux-foundation-europe.png
 tags:
   - Europe
   - Governance
   - Linux Foundation
   - Open Source
 created: '2026-03-16'
-modified: '2026-04-28'
+modified: '2026-07-25'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/linux-foundation-europe/refs/heads/main/apis.yml
 specificationVersion: '0.19'
-apis:
-  - aid: linux-foundation-europe:linux-foundation-europe-api
-    name: Linux Foundation Europe API
-    description: >-
-      API for Linux Foundation Europe, providing programmatic access to European
-      open source project resources, governance frameworks, and collaboration
-      tools for digital sovereignty initiatives.
-    humanURL: https://linuxfoundation.eu/projects
-    tags:
-      - Europe
-      - Open Source
-    properties:
-      - type: Documentation
-        url: https://linuxfoundation.eu/projects
+apis: []
 common:
   - type: DomainSecurity
     url: security/linux-foundation-europe-domain-security.yml

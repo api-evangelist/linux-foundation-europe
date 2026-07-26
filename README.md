@@ -17,10 +17,6 @@ Linux Foundation Europe is a regional hub under the Linux Foundation for Europea
 
 ## APIs
 
-### Linux Foundation Europe API
-API for Linux Foundation Europe, providing programmatic access to European open source project resources, governance frameworks, and collaboration tools for digital sovereignty initiatives.
-
-**Human URL:** [https://linuxfoundation.eu/projects](https://linuxfoundation.eu/projects)
 
 #### Tags:
  - Europe, Open Source
