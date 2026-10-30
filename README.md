@@ -1,4 +1,4 @@
-# Linux Foundation Europe (linux-foundation-europe)
+# Linux Foundation Europe
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,33 +66,60 @@
 
 Linux Foundation Europe is a regional hub under the Linux Foundation for European open source projects, governance, and collaboration. It hosts OpenWallet Foundation, Servo, NeoNephos, and other projects, providing a European framework for open source innovation and digital sovereignty.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/linux-foundation-europe/refs/heads/main/apis.yml)
+**Areas:** Europe · Governance · Linux Foundation · Open Source
 
-## Scope
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+## Linux Foundation Europe on APIs.io
 
-## Tags:
- - Europe, Open Source, Governance, Linux Foundation
+Everything profiled for Linux Foundation Europe is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/linux-foundation-europe/](https://apis.io/providers/linux-foundation-europe/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### Security (1)
 
-#### Tags:
- - Europe, Open Source
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Properties
+- [Linux Foundation Europe Domain Security](https://apis.io/security/linux-foundation-europe/linux-foundation-europe-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Linux Foundation Europe Plans Pricing](https://apis.io/plans/linux-foundation-europe/linux-foundation-europe-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Linux Foundation Europe Rate Limits](https://apis.io/rate-limits/linux-foundation-europe/linux-foundation-europe-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Linux Foundation Europe Finops](https://apis.io/finops/linux-foundation-europe/linux-foundation-europe-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Documentation](https://linuxfoundation.eu/projects)
 
-## Common Properties
-- [Documentation](https://linuxfoundation.eu/projects)
-- [GitHub Repository](https://github.com/lf-europe)
+## API Evangelist rating
 
-## Maintainers
-**FN:** Kin Lane
-**Email:** info@apievangelist.com
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Linux Foundation Europe: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/linux-foundation-europe/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
